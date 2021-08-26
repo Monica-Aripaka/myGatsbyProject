@@ -81,7 +81,7 @@ const badgeStyle = {
 // data
 const links = [
   {
-    text: "Test 1",
+    text: "Gatsby tutorial",
     url: "https://www.gatsbyjs.com/docs/tutorial/",
     description:
       "Test1 desc",
